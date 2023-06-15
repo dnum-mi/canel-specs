@@ -1,3 +1,5 @@
+<script src='https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js'></script>
+
 # Gestion des Applications
 
 **_Version_** : en cours
